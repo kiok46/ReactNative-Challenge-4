@@ -2,7 +2,7 @@
     "expo": {
         "name": "4_Photo_Info",
         "description": "This project is really great.",
-        "slug": "test",
+        "slug": "4_Photo_Info",
         "privacy": "public",
         "sdkVersion": "28.0.0",
         "platforms": ["ios", "android"],
